@@ -12,7 +12,7 @@ import java.net.Socket;
 
 /**
  *
- * @author User
+ * @author emilabbasov
  */
 public class ChatServer {
 

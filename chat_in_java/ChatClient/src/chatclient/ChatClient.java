@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author User
+ * @author emilabbasov
  */
 public class ChatClient {
 
